@@ -1,0 +1,1 @@
+Ce site web a été crée par des lycéens qui jouent à Minecraft depuis qu'ils sont petit, afin de présenter le jeu selon leur point de vue. On vous raconte l'histoire du jeu et on présente la communauté. Une légère présentation du jeu est également disponible en page d'accueil.
